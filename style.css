@@ -4,6 +4,10 @@
     justify-content: center;
 }
 
+.container-fluid{
+    backgraound:silver:
+}
+
 h2{
     font-family: fantasy;
     font-size: 3em;
